@@ -1,6 +1,11 @@
-- 👋 Hola, soy @JerryProg y soy ingeniero eléctrico-electrónico.
-- 👀 Estoy interesado en proyectos que tengan a Python como principal lenguaje de programación. Pretendo que este espacio sea una ayuda extra para consultar temas con Python principalmente en el idioma ESPAÑOL. 
-- 💞️ Estaré subiendo proyectos que pueden servir como guía para realizar aplicaciones con Python.
+- 👋 Hi!, My name is Jerry and I'm electric and electronic engineer. I want to keep learning Python and other prog languages for IoT applications.
+
+- 👀  I'm interested in projects with Python as main programming language. This account contains projects with Python (web, desktop and embedded systems).
+ 
+- 💞️ I will be creating, updating projects with many applications with Python. I open to any questions that you have. 
+
+- **The main issue in this account is: the main idiom will be in _Spanish_.**
+
 
 <!---
 JerryProg/JerryProg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
