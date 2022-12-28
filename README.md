@@ -2,7 +2,7 @@
 
 - 👀  I'm interested in projects with Python as main programming language. This account contains projects with Python (web, desktop and embedded systems).
  
-- 💞️ I will be creating, updating projects with many applications with Python. I open to any questions that you have. 
+- 💞️ I will be creating, updating projects with many applications with Python. I'm open to any questions that you have. 
 
 - **The main issue in this account is: the main idiom will be in _Spanish_.**
 
